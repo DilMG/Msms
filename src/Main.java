@@ -12,7 +12,7 @@ public class Main {
        Amp decamox500 = new Amp("Decamox-500", "Cipla");
        decamox500.vmp = amo500;
 
-       System.out.println( decamox500.manufacturer );
+       System.out.println( decamox500.name);
 
     }
 }
